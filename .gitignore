@@ -1,0 +1,14 @@
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
+*.pyc
+__pycache__/
+.env
+*.log
+*.zip
+.idea/
+.vscode/
+git rm -r --cached .
+git add .
